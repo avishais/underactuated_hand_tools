@@ -20,7 +20,7 @@ We provide a platform in three paths. The user can either use the *Rutgers Under
 
 The Rutgers Underactuated-hand Manipulation (RUM) dataset is a wide set of real data collected from several underactuated hands (the Model-T42 and Model-O) across various types of objects. The data comprises of approximately 300,000 transition points for each object. Furthermore, each objects comes with 10 long validation paths which have substantial coverage of the hand's workspace and also employs frequent changes of action. 
 
-**The data can be accessed [here]([https://robotics.cs.rutgers.edu/rum-dataset/](https://wordpress.cs.rutgers.edu/pracsys-cs-rutgers-edu/datasets/)).**
+**The data can be accessed [here](https://wordpress.cs.rutgers.edu/pracsys-cs-rutgers-edu/datasets/).**
 
 Example for accessing a transition data files:
 ```python
